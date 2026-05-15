@@ -2,7 +2,7 @@
 
 name: Zizmor
 on:
-  workflow_call:
+  pull_request:
 
 permissions: {}
 
